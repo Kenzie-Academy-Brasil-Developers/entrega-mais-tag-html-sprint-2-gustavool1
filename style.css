@@ -6,6 +6,10 @@ nav li{
     padding: 10px;
     font-size: 12pt;
 }
+nav li:hover{
+    color: rgb(158, 158, 175);
+}
+
 nav{
     margin-left: 38%;
    
